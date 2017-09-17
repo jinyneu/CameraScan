@@ -32,6 +32,8 @@ public class LocalInnerClass {
         };
     }
 
+
+
     public static void main(String[] args) {
         LocalInnerClass lic = new LocalInnerClass();
         Counter c1 = lic.getCounter("local"),
