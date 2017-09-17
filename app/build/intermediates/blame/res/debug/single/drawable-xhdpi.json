@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\jinyTable\\Desktop\\CameraTestAs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jinyTable\\Desktop\\CameraTestAs\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jinyTable\\Desktop\\CameraTestAs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shadow.png",
+        "source": "C:\\Users\\jinyTable\\Desktop\\CameraTestAs\\app\\src\\main\\res\\drawable-xhdpi\\shadow.png"
+    },
+    {
+        "merged": "C:\\Users\\jinyTable\\Desktop\\CameraTestAs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\scan_line.png",
+        "source": "C:\\Users\\jinyTable\\Desktop\\CameraTestAs\\app\\src\\main\\res\\drawable-xhdpi\\scan_line.png"
+    },
+    {
+        "merged": "C:\\Users\\jinyTable\\Desktop\\CameraTestAs\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\qr_code_bg.9.png",
+        "source": "C:\\Users\\jinyTable\\Desktop\\CameraTestAs\\app\\src\\main\\res\\drawable-xhdpi\\qr_code_bg.9.png"
+    }
+]
